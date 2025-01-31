@@ -1,1 +1,1 @@
-value = 'https://lysokheng.github.io/lua_android/com.sweet.nutty.slots,aHR0cHM6Ly93d3cucGgxMXQuY29tL20vcmVnaXN0ZXI/YWZmaWxpYXRlQ29kZT1lcnIwMDA3,PST,.lua'
+value = 'aHR0cHM6Ly9seXNva2hlbmcuZ2l0aHViLmlvL2x1YV9hbmRyb2lkL2NvbS5zd2VldC5udXR0eS5zbG90cyxhSFIwY0hNNkx5OTNkM2N1Y0dneE1YUXVZMjl0TDIwdmNtVm5hWE4wWlhJL1lXWm1hV3hwWVhSbFEyOWtaVDFsY25Jd01EQTUsUFNULC5sdWE='
